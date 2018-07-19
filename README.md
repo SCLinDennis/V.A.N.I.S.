@@ -3,7 +3,7 @@ Attributed to J.A.R.V.I.S. in Iron Man. V.A.N.I.S. is an artificial intelligent 
   - Voice Transform
   - Emotion Transform
   - Voice Recognition 
-# Run the code
+# Usage
 V.A.N.I.S. run well on MacOs and Windows for MATLAB version 2015 and latest.
   - Download the repo
   - Open ```final.m``` using MATLAB

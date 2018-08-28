@@ -1,8 +1,8 @@
 # V.A.N.I.S.- Voice Assistant by Natural Intelligent System
 Attributed to J.A.R.V.I.S. in Iron Man. V.A.N.I.S. is an artificial intelligent voice assistant which has following features:
-  - Voice Transform
-  - Emotion Transform
-  - Voice Recognition 
+  - Voice Transform: Change the input voice from male to female or female to male.
+  - Emotion Transform: Change the input voice to Anger or Happiness
+  - Voice Recognition : Recognize the option speech
 # Usage
 V.A.N.I.S. run well on MacOs and Windows for MATLAB version 2015 and latest.
   - Download the repo
